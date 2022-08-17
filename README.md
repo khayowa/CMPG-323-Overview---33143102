@@ -14,4 +14,4 @@ The Feature Branching Strategy is the approach that will be taken throughout the
 A .gitignore file is used to ignore a chosen file or folder. In API development which is project 2, a .gitignore file is highly required to allow builds to come from one source. This is essential as during development, modifications or debbuging applies on the same feauture. Web app project testing patterns, project 3 and RPA and testing project, project 4 will also require a .gitignore file as this will help avoid potentially costly commits of files that should be versioned during testing.
 
 ## Storage of credentials and sensitive information
-
+The storage of sensitive information will be kept in a configuration file. No form of credentials or sensitive information will be handled in the source code as this goes against security protocols. In ASP NET Core a Secret Manager tool can be implemented to store sensitive information. Managing user secrets is beneficial to the extent of working with git as secrets are omitted from commits.
