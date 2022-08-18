@@ -5,7 +5,7 @@ IT Development Semester Project Overview
 The CMPG-323-Overview repository will accommodate for Project 1
 <br>
 <br>
-Each project will integrated with a unique repository as follows:
+Each project will be integrated with a unique repository as follows:
 <br>
 <ul>
 <li>Project 2 - API Development</li>
