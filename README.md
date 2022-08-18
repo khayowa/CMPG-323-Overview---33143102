@@ -6,6 +6,7 @@ The CMPG-323-Overview repository will accommodate for Project 1
 <br>
 Each project will integrated with a unique repository as follows:
 <br>
+<br>
 <ul>
 <li>Project 2 - API Development</li>
 <li>Project 3 - Web App Project Testing Patterns</li>
