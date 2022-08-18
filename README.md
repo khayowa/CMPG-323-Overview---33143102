@@ -1,8 +1,9 @@
 # CMPG-323-Overview---33143102
-IT Development Semester Project
+IT Development Semester Project Overview
 
 ## Project and Repository structure
 The CMPG-323-Overview repository will accommodate for Project 1
+<br>
 The Full Stack repository will encompass Project 2,3,4,5
 
 ## Integration of project and repository context diagram
