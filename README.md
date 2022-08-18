@@ -4,7 +4,14 @@ IT Development Semester Project Overview
 ## Project and Repository structure
 The CMPG-323-Overview repository will accommodate for Project 1
 <br>
-The Full Stack repository will encompass Project 2,3,4,5
+Each project will integrated with a unique repository as follows:
+<br>
+<ul>
+<li>Project 2 - API Development</li>
+<li>Project 3 - Web App Project Testing Patterns</li>
+<li>Project 4 - RPA and Testing Project</li>
+<li>Project 5 - Reporting Project</li>
+</ul>
 
 ## Integration of project and repository context diagram
 
