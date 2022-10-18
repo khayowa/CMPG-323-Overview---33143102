@@ -10,7 +10,7 @@ Each project will be integrated with a unique repository as follows:
 <ul>
 <li><a href= "https://github.com/khayowa/CMPG-323-Project-2---33143102">Project 2 - API Development</a></li>
 <li><a href= "https://github.com/khayowa/CMPG-323-Project-3---33143102">Project 3 - Web App Project Testing Patterns</a></li>
-<li>Project 4 - RPA and Testing Project</li>
+<li><a href= "https://github.com/khayowa/CMPG-323-Project-4---33143102">Project 4 - RPA and Testing Project</a></li>
 <li>Project 5 - Reporting Project</li>
 </ul>
 
